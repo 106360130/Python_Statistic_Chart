@@ -3,6 +3,7 @@
 ###### tags: `Python`
 
 有時需要畫統計圖表什麼的，就可以利用 ==Python== 來畫圖
+
 常用的 Library 有以下三種
 - Matplotlib : 通常 Python 內建會有
 <font color="#7B7B7B">(非常陽春:sweat_smile:)</font>
@@ -22,6 +23,7 @@
 <br>
 
 有將以上常見圖表整理起來，用 ==Python== 撰寫
+
 GitHub 網址 : 
 https://github.com/106360130/Python_Statistic_Chart
 
