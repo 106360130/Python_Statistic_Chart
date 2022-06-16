@@ -21,7 +21,7 @@
 - Pie Charts <font color="#7B7B7B">(圓餅圖)</font>
 <br>
 
-有將以上常見圖表整理起來，用 ==Python==撰寫
+有將以上常見圖表整理起來，用 ==Python== 撰寫
 GitHub 網址 : 
 https://github.com/106360130/Python_Statistic_Chart
 
